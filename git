@@ -1,0 +1,36 @@
+[33mcommit c52d8d9fdff097d3c18ddc7eb87f070c9590b601[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: aa67099 2fdae58
+Author: Kelly D <kedaniels511@gmail.com>
+Date:   Wed Apr 9 21:18:31 2025 -0700
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 2fdae58a4a6a280f280e98e7e174cf2f3c2b7241[m
+Author: Kelly D <kedaniels511@gmail.com>
+Date:   Wed Apr 9 21:12:00 2025 -0700
+
+    added new image
+
+[33mcommit aa67099767f2a4c50e3031ec01bef02c66159d30[m
+Author: Kelly D <kedaniels511@gmail.com>
+Date:   Wed Apr 9 21:03:09 2025 -0700
+
+    updated index.html with emergency fix
+
+[33mcommit 7e2c366feaa017122db38df54ccc862ed9c78ad4[m
+Author: Kelly D <kedaniels511@gmail.com>
+Date:   Wed Apr 9 20:55:19 2025 -0700
+
+    Added image ti Hello World
+
+[33mcommit cc3e872f1b9363751ab269897c77da08dfa966b4[m
+Author: Kelly D <kedaniels511@gmail.com>
+Date:   Wed Apr 9 20:18:03 2025 -0700
+
+    Updated index.html with a new line
+
+[33mcommit 145894e5a4e32865998f44c9170f9cfbae59c334[m
+Author: Kelly D <kedaniels511@gmail.com>
+Date:   Wed Apr 9 20:12:31 2025 -0700
+
+    First release of Hello World
